@@ -1,0 +1,19 @@
+{
+  "name": "evil_squid_pettingzoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
